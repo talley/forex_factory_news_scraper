@@ -89,7 +89,50 @@ def get_target_month(arg_month=None):
     year = now.strftime("%Y")
     return month, year
 
+def scrape_news_for_month():
+    parser = argparse.ArgumentParser(
+        description="Scrape Forex Factory calendar.")
+    parser.add_argument("--months", nargs="+",
+                        help='Target months: e.g., this next')
 
+    args = parser.parse_args()
+    month_params = args.months if args.months else ["this"]
+
+    for param in month_params:
+        param = param.lower()
+        url = f"https://www.forexfactory.com/calendar?month={param}"
+        print(f"\n[INFO] Navigating to {url}")
+
+        driver = init_driver()
+        driver.get(url)
+        detected_tz = driver.execute_script("return Intl.DateTimeFormat().resolvedOptions().timeZone")
+        print(f"[INFO] Browser timezone: {detected_tz}")
+        config.SCRAPER_TIMEZONE = detected_tz
+        scroll_to_end(driver)
+
+        # Determine readable month name and year
+        if param == "this":
+            now = datetime.now()
+            month = now.strftime("%B")
+            year = now.year
+        elif param == "next":
+            now = datetime.now()
+            next_month = (now.month % 12) + 1
+            year = now.year if now.month < 12 else now.year + 1
+            month = datetime(year, next_month, 1).strftime("%B")
+        else:
+            month = param.capitalize()
+            year = datetime.now().year
+
+        print(f"[INFO] Scraping data for {month} {year}")
+        try:
+            parse_table(driver, month, str(year))
+        except Exception as e:
+            print(f"[ERROR] Failed to scrape {param} ({month} {year}): {e}")
+
+        driver.quit()  #  Kill the driver cleanly after each scrape
+        time.sleep(3)
+        
 def main():
     parser = argparse.ArgumentParser(
         description="Scrape Forex Factory calendar.")

@@ -1,5 +1,6 @@
 pandas==1.3.5
 selenium==4.13.0
 webdriver_manager==4.0.2
+flask==2.3.0
 datetime
 pytz

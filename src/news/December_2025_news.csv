@@ -1,0 +1,110 @@
+time,currency,impact,event,detail,actual,forecast,previous,day,date
+20:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=December#detail=141144,48.2,,,Mon,01/12/2025
+20:00,USD,orange,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=December#detail=141157,58.5,,,Mon,01/12/2025
+06:00,USD,orange,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=December#detail=150991,,,,Mon,01/12/2025
+15:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=December#detail=145446,2.4%,,,Tue,02/12/2025
+15:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=December#detail=145447,2.2%,,,Tue,02/12/2025
+15:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=December#detail=151004,,,,Tue,02/12/2025
+00:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151005,,,,Tue,02/12/2025
+18:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=December#detail=142730,-32K,,,Wed,03/12/2025
+18:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=December#detail=150997,,,,Wed,03/12/2025
+20:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=December#detail=141169,52.6,,,Wed,03/12/2025
+20:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=December#detail=150999,,,,Wed,03/12/2025
+00:30,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151006,,,,Wed,03/12/2025
+17:30,USD,orange,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=December#detail=142746,23.5%,,,Thu,04/12/2025
+18:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=December#detail=141478,191K,,,Thu,04/12/2025
+20:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=December#detail=144943,48.4,,,Thu,04/12/2025
+18:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=December#detail=144979,53.6K,,,Fri,05/12/2025
+18:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=December#detail=144991,6.5%,,,Fri,05/12/2025
+20:00,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=December#detail=150985,0.2%,,,Fri,05/12/2025
+20:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=December#detail=141278,53.3,,,Fri,05/12/2025
+20:00,USD,red,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=December#detail=141277,4.1%,,,Fri,05/12/2025
+All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=141879,,,,Mon,08/12/2025
+18:15,USD,red,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150961,4.8K,,,Tue,09/12/2025
+19:15,GBP,orange,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=December#detail=151061,,,,Tue,09/12/2025
+Sep Data,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=December#detail=150956,7.66M,,,Tue,09/12/2025
+20:00,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=December#detail=143902,7.67M,,,Tue,09/12/2025
+04:10,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151398,,,,Tue,09/12/2025
+15:55,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=December#detail=151010,,,,Wed,10/12/2025
+18:30,USD,red,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=December#detail=150981,0.8%,,,Wed,10/12/2025
+19:45,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=December#detail=141405,,,,Wed,10/12/2025
+19:45,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=December#detail=141393,2.25%,,,Wed,10/12/2025
+20:30,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=December#detail=141413,,,,Wed,10/12/2025
+00:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=December#detail=141214,3.75%,,,Wed,10/12/2025
+00:00,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=December#detail=141234,,,,Wed,10/12/2025
+00:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=December#detail=141222,,,,Wed,10/12/2025
+00:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=December#detail=141230,,,,Wed,10/12/2025
+14:52,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=December#detail=151011,,,,Thu,11/12/2025
+15:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=December#detail=151063,,,,Thu,11/12/2025
+18:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=December#detail=141479,236K,,,Thu,11/12/2025
+12:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=December#detail=148063,,,,Fri,12/12/2025
+18:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=December#detail=145131,,,,Mon,15/12/2025
+18:30,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=December#detail=145178,,,,Mon,15/12/2025
+18:30,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=December#detail=145179,,,,Mon,15/12/2025
+18:30,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=December#detail=145176,,,,Mon,15/12/2025
+18:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=December#detail=141182,,,,Mon,15/12/2025
+12:00,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=December#detail=143815,,,,Tue,16/12/2025
+12:00,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=December#detail=143814,,,,Tue,16/12/2025
+13:15,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=December#detail=141066,,,,Tue,16/12/2025
+13:15,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=December#detail=141067,,,,Tue,16/12/2025
+13:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=December#detail=142227,,,,Tue,16/12/2025
+13:30,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=December#detail=142228,,,,Tue,16/12/2025
+14:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=December#detail=142229,,,,Tue,16/12/2025
+14:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=December#detail=142230,,,,Tue,16/12/2025
+Tentative,USD,red,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150962,,,,Tue,16/12/2025
+18:30,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=December#detail=142600,,,,Tue,16/12/2025
+18:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=December#detail=142354,,,,Tue,16/12/2025
+18:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=December#detail=142576,,,,Tue,16/12/2025
+18:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=December#detail=142344,,,,Tue,16/12/2025
+18:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=December#detail=142588,,,,Tue,16/12/2025
+19:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=December#detail=143938,,,,Tue,16/12/2025
+19:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=December#detail=143950,,,,Tue,16/12/2025
+12:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=December#detail=143633,,,,Wed,17/12/2025
+14:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=December#detail=142255,,,,Wed,17/12/2025
+17:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=December#detail=143368,,,,Thu,18/12/2025
+17:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=December#detail=143369,,,,Thu,18/12/2025
+17:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=December#detail=143367,,,,Thu,18/12/2025
+17:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=December#detail=151472,,,,Thu,18/12/2025
+18:15,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=December#detail=142945,,,,Thu,18/12/2025
+18:15,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=December#detail=142946,,,,Thu,18/12/2025
+18:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=December#detail=142666,,,,Thu,18/12/2025
+18:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=December#detail=142642,,,,Thu,18/12/2025
+18:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=December#detail=142654,,,,Thu,18/12/2025
+18:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=December#detail=141480,,,,Thu,18/12/2025
+18:30,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=December#detail=141206,,,,Thu,18/12/2025
+18:45,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=December#detail=142944,,,,Thu,18/12/2025
+12:00,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=December#detail=143675,,,,Fri,19/12/2025
+18:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=December#detail=145055,,,,Fri,19/12/2025
+18:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=December#detail=145043,,,,Fri,19/12/2025
+Tentative,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=December#detail=142552,,,,Fri,19/12/2025
+Tentative,USD,orange,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=December#detail=142556,,,,Fri,19/12/2025
+20:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=December#detail=143019,,,,Fri,19/12/2025
+20:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=December#detail=141299,,,,Fri,19/12/2025
+Tentative,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=December#detail=142516,,,,Fri,19/12/2025
+Tentative,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=December#detail=144599,,,,Fri,19/12/2025
+Tentative,USD,red,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150963,,,,Tue,23/12/2025
+18:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=December#detail=144967,,,,Tue,23/12/2025
+18:30,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=December#detail=150987,,,,Tue,23/12/2025
+18:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=December#detail=142390,,,,Tue,23/12/2025
+18:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=December#detail=142380,,,,Tue,23/12/2025
+18:30,USD,orange,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=December#detail=150986,,,,Tue,23/12/2025
+20:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=December#detail=141254,,,,Tue,23/12/2025
+20:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=December#detail=141133,,,,Tue,23/12/2025
+20:00,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=December#detail=141194,,,,Tue,23/12/2025
+All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=142897,,,,Wed,24/12/2025
+18:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=December#detail=141481,,,,Wed,24/12/2025
+All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140586,,,,Thu,25/12/2025
+All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140587,,,,Thu,25/12/2025
+All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140588,,,,Thu,25/12/2025
+All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140590,,,,Thu,25/12/2025
+All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140520,,,,Thu,25/12/2025
+All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140509,,,,Thu,25/12/2025
+All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140592,,,,Fri,26/12/2025
+All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140593,,,,Fri,26/12/2025
+All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140594,,,,Fri,26/12/2025
+All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=140521,,,,Fri,26/12/2025
+20:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=December#detail=143031,,,,Mon,29/12/2025
+Tentative,USD,red,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150979,,,,Tue,30/12/2025
+00:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=December#detail=146522,,,,Tue,30/12/2025
+All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=December#detail=142898,,,,Wed,31/12/2025
+18:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=December#detail=141482,,,,Wed,31/12/2025
